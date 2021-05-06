@@ -1,5 +1,5 @@
 # Hi I'm Dylan 👋🏻
-I'm a Digital Designer &amp; Front-End Developer with a passion for design, technology and branding. I'm currently crafting digital solutions at [Cognizant](https://www.cognizant.com/).
+I'm a Digital Designer &amp; Front-End Developer with a passion for design, technology and branding.
 
 ## Current Projects <br/>
 :construction_worker: Work in progress
